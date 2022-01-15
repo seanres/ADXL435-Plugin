@@ -1,0 +1,4 @@
+include README.md
+recursive-include octoprint_Vibration/templates *
+recursive-include octoprint_Vibration/translations *
+recursive-include octoprint_Vibration/static *
